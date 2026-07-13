@@ -1,0 +1,14 @@
+{
+  "name": "Uni Bridge",
+  "short_name": "Uni Bridge",
+  "description": "Raise campus complaints, attach a photo, and track resolution.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f4ee",
+  "theme_color": "#102244",
+  "icons": [
+    { "src": "/favicon.svg", "type": "image/svg+xml", "sizes": "any", "purpose": "any maskable" }
+  ]
+}

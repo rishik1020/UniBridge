@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Uni Bridge">
+  <rect width="32" height="32" rx="7" fill="#102244"/>
+  <path d="M16 7 27 11.5 16 16 5 11.5Z" fill="#e6a52c"/>
+  <path d="M10 13.2v4.1c0 1.7 2.7 3 6 3s6-1.3 6-3v-4.1" fill="none" stroke="#f6f1e7" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M27 11.5v6" fill="none" stroke="#f6f1e7" stroke-width="1.7" stroke-linecap="round"/>
+  <circle cx="27" cy="18.4" r="1.5" fill="#e6a52c"/>
+</svg>

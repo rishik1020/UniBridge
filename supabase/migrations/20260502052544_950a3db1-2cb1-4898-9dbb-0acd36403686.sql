@@ -1,0 +1,1 @@
+ALTER TABLE public.departments RENAME COLUMN login_username TO login_email;
