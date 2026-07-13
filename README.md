@@ -79,4 +79,6 @@ supabase/
 
 ## License
 
-Released under the [MIT License](LICENSE) © 2026 Rishik Reddy.
+Copyright © 2026 Rishik Reddy. **All rights reserved.** This is proprietary
+software — no use, copying, modification, or distribution is permitted without
+prior written permission. See [LICENSE](LICENSE).
